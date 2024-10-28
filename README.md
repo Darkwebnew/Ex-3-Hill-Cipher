@@ -1,4 +1,6 @@
-# Ex-3 Hill Cipher
+# Ex-3 HILL CIPHER
+
+## DATE:
 
 Hill Cipher using with different key values
 
