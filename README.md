@@ -14,7 +14,7 @@ To develop a simple C program to implement Hill Cipher.
 
 <br>
 
-## DESIGN STEPS:
+## ALGORITHM:
 
 <br>
 
